@@ -21,11 +21,8 @@ export const USER_DETAILS_QUERY = gql`
   query UserDetailsQuery {
     me {
       id
-      firstName
-      lastName
+      name
       email
-      phone
-      websiteUrl
     }
   }
 `

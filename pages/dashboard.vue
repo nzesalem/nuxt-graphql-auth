@@ -9,7 +9,7 @@
         <b-navbar-nav class="ml-auto">
           <b-nav-item-dropdown right>
             <template #button-content>
-              {{ $auth.user.firstName }} {{ $auth.user.lastName }}
+              {{ $auth.user.name }}
             </template>
             <b-dropdown-item @click="handleLogout">Sign Out</b-dropdown-item>
           </b-nav-item-dropdown>
