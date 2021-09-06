@@ -1,3 +1,6 @@
+
+# This repo is from the tutorial: [How To Implement a GraphQL Authentication Scheme In Nuxt.js](https://vorlume.com/nzesalem/stories/nuxt-graphql-auth-scheme).
+
 # nuxt-graphql-auth
 
 ## Build Setup
